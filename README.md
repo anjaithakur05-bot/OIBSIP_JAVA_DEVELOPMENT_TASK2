@@ -50,15 +50,15 @@ Step 2: Run Backend
 
 Open terminal:
 
-cd backend
+cd ..
 
 Compile:
 
-javac NumberGuessingGame.java
+javac backend\NumberGuessingGame.java
 
 Run:
 
-java NumberGuessingGame
+java backend.NumberGuessingGame
 
 
 Step 3: Run Frontend
